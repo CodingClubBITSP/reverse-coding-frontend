@@ -35,7 +35,7 @@ const Login = (props) => {
           'Content-Type': 'application/json'
         };
       
-        const url = "https://reverse-coding-cc" + '/users/register/';
+        const url = "https://reverse-coding-cc.herokuapp.com" + '/users/register/';
         axios.post(url, data, { headers })
             .then(res => {
                 console.log(res.data);
