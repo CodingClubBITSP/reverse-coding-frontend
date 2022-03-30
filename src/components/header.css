@@ -1,0 +1,33 @@
+@media screen and (max-width: 768px) {
+  .makeStyles-title-9{
+    font-size: 3rem !important;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .makeStyles-title-9{
+    font-size: 2rem !important;
+  }
+}
+
+
+@media screen and (max-width: 350px) {
+  .makeStyles-appbarTitle{
+    font-size: 1.2rem !important;
+  }
+}
+
+.headertitle{
+  color: #fff;
+  font-size: 5rem;
+}
+
+@media screen and (max-width:800px) {
+  .headertitle{
+    font-size: 3rem !important;
+  }
+}
+
+html{
+    padding: 1rem;
+}

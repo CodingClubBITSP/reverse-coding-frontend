@@ -1,0 +1,72 @@
+
+    [ {
+      "number" : 1 ,
+      "download": "A01" ,
+      "id": "check1",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $10$, inclusive), which describes the number of testcases. Each testcase has 1 line, which contains a single integer $N$ (between $0$ and $20$, inclusive). \n $0 < T \\leq 10$ ,\n $0 \\leq N \\leq 20$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a01"
+    },
+    {
+      "number" : 2 ,
+      "download": "A02" ,
+      "id": "check2",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $100$, inclusive), which describes the number of testcases. Each testcase has 1 line, which contains a single integer $N$ (between $0$ and $1000000$, inclusive).\n$0 < T \\leq 100$ ,\n$0 \\leq N \\leq 1000000$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a02"
+    },
+    {
+      "number" : 3 ,
+      "download": "A03" ,
+      "id": "check3",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $10$, inclusive), which describes the number of testcases. Each testcase has 1 line, which contains 2 integers $A$ and $B$ (both between $1$ and $9$, inclusive). \n $0 < T \\leq 10$ ,\n$1 \\leq A,B \\leq 9$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a03"
+    },
+    {
+      "number" : 4 ,
+      "download": "A04" ,
+      "id": "check4",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $100$, inclusive), which describes the number of testcases. Each testcase has 1 line, which contains 3 integers $A$, $B$ and $C$ (between $-1000$ and $1000$, inclusive).\n$0 < T \\leq 100$ ,\n$0 \\leq |A|,|B|,|C| \\leq 1000$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a04"
+    },
+    {
+      "number" : 5 ,
+      "download": "A05" ,
+      "id": "check5",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $100$, inclusive), which describes the number of testcases. Each testcase has 1 line, which contains 2 integers $A$ and $B$ (both between $0$ and $30$, inclusive), where $B$ is smaller than or equal to $A$.\n$0 < T \\leq 100$ ,\n$0 \\leq B \\leq A \\leq 30$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a05"
+    },
+    {
+      "number" : 6 ,
+      "download": "A06" ,
+      "id": "check6",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $100$, inclusive), which describes the number of testcases.  Each testcase consists of one line, which contains a string with length ranging from $1$ to $10^6$. Each string consists only of english alphabets in lowercase or uppercase.\n$0 < T \\leq 100$ , \n $1 \\leq String Length \\leq 10^6$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a06"
+    },
+    {
+      "number" : 7 ,
+      "download": "A07" ,
+      "id": "check7",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $100$, inclusive), which describes the number of testcases. Each testcase has 1 line, which contains a single integer $N$ (between $0$ and $1000$, inclusive).\n$0 < T \\leq 100$ , \n $0 \\leq N \\leq 1000$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a07"
+    },
+    {
+      "number" : 8 ,
+      "download": "A08" ,
+      "id": "check8",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $100$, inclusive), which describes the number of testcases. Each testcase has 1 line, which contains 2 integers $A$ (between $1$ and $100$, inclusive) and $B$ (between $1$ and $50$, inclusive).\n$0 < T \\leq 100$ ,\n$1 \\leq A \\leq 100$, \n $1 \\leq B \\leq 50$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a08"
+    },
+    {
+      "number" : 9 ,
+      "download": "A09" ,
+      "id": "check9",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $100$, inclusive), which describes the number of testcases. Each testcase has 1 line, which contains a single integer $N$ (between $1$ and $100$, inclusive).\n$0 < T \\leq 100$ ,\n$1 \\leq N \\leq 100$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a09"
+    },
+    {
+      "number" : 10 ,
+      "download": "A100",
+      "id": "check10",
+      "description": "The first line of the input contains an integer $T$ (between $1$ and $100$, inclusive), which describes the number of testcases. Each testcase has 1 line, which contains a single integer $N$ (between $0$ and $10^9$, inclusive).\n$0 < T \\leq 100$, \n$0 \\leq N \\leq 10^9$",
+      "HRlink": "https://www.hackerrank.com/contests/decrypt-round-1/challenges/decrypt-a10"
+    }
+      ]

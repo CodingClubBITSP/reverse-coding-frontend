@@ -1,0 +1,30 @@
+.vid{
+  overflow: hidden;
+  width: 100%;
+  position: absolute;
+  
+}
+
+.videoTag{
+  width: 100%;
+}
+
+.MuiCollapse-container{
+    z-index: 1;
+}
+
+@media only screen and (max-width: 1000px) {
+  .vid{
+    transform: scale(1.5);
+    width: 80%;
+    padding: 10% 0% 0% 15%;
+
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .vid{
+    display: none;
+
+  }
+}
